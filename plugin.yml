@@ -1,0 +1,25 @@
+name: AlphaBox
+version: 1.0
+author: Extasio15
+description: AlphaBox
+main: fr.alphabox.main.Main
+prefix: AlphaBox
+
+commands:
+  setrespawn:
+    description: Défini le point de respawn
+    permission: alphabox.setrespawn
+    permission-message: Vous n'avez pas la permission requise.
+  stats:
+    description: Affiche les statistiques d'un joueur
+    aliases: [statistique, info, information]
+    usage: "Utilisation: /stats Pseudo"
+  top:
+    description: Affiche un leaderboard 
+    aliases: [leaderboard, classement]
+    usage: "Utilisation: /top kill"
+  objectifs:
+    description: Affiche les objectifs
+    aliases: [palier]
+    usage: "Utilisation: /objectif"
+    

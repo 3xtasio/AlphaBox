@@ -1,0 +1,122 @@
+Message:
+  kitgratuit:
+    - "§7 "
+    - "§7Disponibles à tous"
+  kitvip:
+    - "§7 "
+    - "§7Disponibles aux VIP"
+Stockage:
+  host: ms1.location-minecraft.com
+  database: lcmc_151762
+  username: lcmc_151762
+  password: salut
+  port: 3306
+  table: box
+Locations:
+  nbposition: 11
+  1:
+    x: 23
+    y: 62
+    z: -44
+  2:
+    x: 2
+    y: 62
+    z: -52
+  3:
+    x: -46
+    y: 63
+    z: -34
+  4:
+    x: -61
+    y: 63
+    z: -11
+  5:
+    x: -27
+    y: 60
+    z: 21
+  6:
+    x: 0
+    y: 64
+    z: 0
+  7:
+    x: 39
+    y: 62
+    z: -3
+  8:
+    x: 34
+    y: 63
+    z: 34
+  9:
+    x: -2
+    y: 65
+    z: 44
+  10:
+    x: 11
+    y: 60
+    z: -20
+  11:
+    x: -20
+    y: 68
+    z: -74
+  12:
+    x: -17
+    y: 60
+    z: -21
+Hub:
+  spawn:
+    world: box
+    x: -10.385407825254024
+    y: 81.0
+    z: -98.92431172672381
+    yaw: 2.0338225
+    pitch: 3.8929408
+Kit:
+  Soldat:
+    Description:
+      - "§8Maniable et puissant, un bon vieux soldat"
+      - "§6 "
+      - "§2 "
+      - "§8§ §6Niveau requis: §a1"
+  Tank:
+    Description:
+      - "§8Possède une grande résistance mais peu habile.."
+      - "§6 "
+      - "§2 "
+      - "§8§ §6Niveau requis: §a4"
+  Eclaireur:
+    Description:
+      - "§8Un mélange de vitesse et dégâts"
+      - "§6 "
+      - "§2 "
+      - "§8§ §6Niveau requis: §a8"
+  Archer:
+    Description:
+      - "§8Sois sûr d'être bon à l'arc !"
+      - "§6 "
+      - "§2 "
+      - "§8§ §6Niveau requis: §a12"
+  Paladin:
+    Description:
+      - "§8Un bon guerrier doit savoir se soigner !"
+      - "§6§lCompétence: §dRégénération §7(20sec)"
+      - "§2 "
+      - "§8§ §6Niveau requis: §a16"
+  Barbare:
+    Description:
+      - "§8Par la rage tu gagneras."
+      - "§6§lCompétence: §dDouble-Saut §7(10sec)"
+      - "§2 "
+      - "§8§ §6Uniquement pour les §aVIP"
+  Sorcier:
+    Description:
+      - "§8Un grand sorcier implique de grand pouvoir"
+      - "§6§lCompétence 1: §cExplosion §7(20sec)"
+      - "§6§lCompétence 2: §bExpelliarmus §7(15sec)"
+      - "§2 "
+      - "§8§ §6Uniquement pour les §aVIP"
+  Pyromane:
+    Description:
+      - "§8Le feu peut être une arme redoutable.."
+      - "§6 "
+      - "§2 "
+      - "§8§ §6Uniquement pour les §aVIP§c+"
