@@ -1,4 +1,5 @@
 # AlphaBox
+Spigot-1.8
 
 Plugin BOX d'AlphaGames (projet abandonné), 
 Fonctionnel mais 
