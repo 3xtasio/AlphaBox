@@ -6,10 +6,10 @@ Message:
     - "§7 "
     - "§7Disponibles aux VIP"
 Stockage:
-  host: ms1.location-minecraft.com
-  database: lcmc_151762
-  username: lcmc_151762
-  password: salut
+  host: default.com
+  database: default
+  username: default
+  password: default
   port: 3306
   table: box
 Locations:
